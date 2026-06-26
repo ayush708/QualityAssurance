@@ -2,6 +2,12 @@ def function_name():
 	print("Hello")
 	print("World")
 
+
+def hello():
+	print("Hello new file.")
+	print("line second.")
+
 def new_function():
     print("This is a new function.")
     print("This is changes made from sks branch.")
+
