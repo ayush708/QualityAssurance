@@ -1,3 +1,7 @@
 def function_name():
 	print("Hello")
 	print("World")
+
+def new_function():
+    print("This is a new function.")
+    print("This is changes made from sks branch.")
