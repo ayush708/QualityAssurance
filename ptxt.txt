@@ -1,3 +1,7 @@
 def function_name():
 	print("Hello")
 	print("World")
+
+def hello():
+	print("Hello new file.")
+	print("line second.")
